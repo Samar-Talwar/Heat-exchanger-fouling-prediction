@@ -8,11 +8,7 @@ at BITS Pilani, Goa Campus.
 
 ---
 
-## Team Members
-- Sarthak Srivastava (2022A1PS0889G)
-- Khushboo Jain (2022A1PS1450G)
-- Shaachi Khanna (2022A1PS1477G)
-- Balram Bhala (2023A1PS0116G)
+
 
 ---
 
